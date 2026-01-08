@@ -1,0 +1,7 @@
+{
+  "name": "Neon AI Racer",
+  "description": "A high-octane, neon-themed car racing game where you can use Gemini AI to generate custom car skins and receive real-time commentary.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
